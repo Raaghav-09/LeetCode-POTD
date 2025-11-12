@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2288-count-operations-to-obtain-zero) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Array
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+## Number Theory
+|  |
+| ------- |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 <!---LeetCode Topics End-->
