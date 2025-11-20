@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0759-set-intersection-size-at-least-two](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0759-set-intersection-size-at-least-two) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0759-set-intersection-size-at-least-two](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0759-set-intersection-size-at-least-two) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -153,5 +155,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0759-set-intersection-size-at-least-two](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0759-set-intersection-size-at-least-two) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2274-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
