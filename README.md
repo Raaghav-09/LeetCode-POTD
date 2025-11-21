@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0474-ones-and-zeroes) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2625-increment-submatrices-by-one) |
 ## Memoization
