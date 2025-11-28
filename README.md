@@ -172,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2274-keep-multiplying-found-values-by-two) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
