@@ -1,27 +1,30 @@
+const int mod = 1e9 + 7 ;
+
 class Solution {
 public:
-    static int countTrapezoids(vector<vector<int>>& points) {
-        const long long mod=1e9+7, n=points.size();
-        int* y=(int*)alloca(n*sizeof(int));
-        int i=0;
-        for(auto& p: points) y[i++]=p[1];
-        sort(y, y+n);
-        long long sum=0, c2=0, c=0;
-        int f=1, prev=y[0];
-        for(int i=1; i<n; i++){
-            if (prev==y[i]) f++;
-            else{
-                c=f*(f-1LL)/2LL;
-                sum+=c;
-                c2+=c*c;
-                f=1;
-                prev=y[i];
-            }
+    int countTrapezoids(vector<vector<int>>& points) {
+        int n = points.size() ; 
+        map<int,int> mp ;
+        for(int i=0 ; i<n ; i++){
+            mp[points[i][1]]++ ;
         }
-        c=f*(f-1LL)/2LL;
-        sum+=c;
-        c2+=c*c;
-        return (sum*sum-c2)/2%mod;
-
+        vector<int> v ; 
+        for(auto [p,q] : mp){
+            if(q==1) continue ; 
+            long long freq = (long long)((long long)(q)*(long long)(q-1))/2 ; 
+            freq %= mod ; 
+            v.push_back(freq) ; 
+        }
+        
+        int sum = accumulate(v.begin(),v.end(),0) ; 
+        long long ans = 0 ; 
+        for(int ele : v){
+            sum -= ele ; 
+            sum %= mod ; 
+            ele %= mod ; 
+            ans += (long long)((long long)ele)*((long long)(sum)) ; 
+            ans %= mod ; 
+        }
+        return ans ; 
     }
 };
