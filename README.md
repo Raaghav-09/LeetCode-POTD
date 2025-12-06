@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3623-count-number-of-trapezoids-i) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Stack
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Heap (Priority Queue)
 |  |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2625-increment-submatrices-by-one) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Memoization
 |  |
 | ------- |
@@ -196,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3625-count-number-of-trapezoids-ii) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 <!---LeetCode Topics End-->
