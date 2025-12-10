@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -208,4 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Brainteaser
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Combinatorics
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
