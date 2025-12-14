@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0068-text-justification) |
 | [0474-ones-and-zeroes](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0054-spiral-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0068-text-justification) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2288-count-operations-to-obtain-zero) |
