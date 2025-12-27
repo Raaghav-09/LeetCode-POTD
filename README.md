@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2402-meeting-rooms-iii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2402-meeting-rooms-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2625-increment-submatrices-by-one) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2402-meeting-rooms-iii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2402-meeting-rooms-iii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2402-meeting-rooms-iii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2402-meeting-rooms-iii) |
 | [3433-count-mentions-per-user](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3433-count-mentions-per-user) |
 ## Sliding Window
 |  |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2402-meeting-rooms-iii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2402-meeting-rooms-iii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3863-power-grid-maintenance) |
 ## Depth-First Search
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2092-find-all-people-with-secret](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2402-meeting-rooms-iii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2402-meeting-rooms-iii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3433-count-mentions-per-user) |
