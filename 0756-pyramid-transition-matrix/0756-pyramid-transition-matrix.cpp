@@ -1,74 +1,49 @@
-// This version has a pruning Check
-using u8=unsigned char;
-
-u8 pattern[36];
-const int N=117649; // 7^6
-bitset<N> BAD[7];   // memo per row length
-
 class Solution {
 public:
-    static inline unsigned encode(const string& s) {
-        unsigned ans=0;
-        for (char c : s) {
-            ans=ans*7+(c-'A');
-        }
-        return ans;
+    string getString(map<string,string>& allowedBase , string& bottom , int ind){
+        string s = bottom.substr(ind,2) ; 
+        if(allowedBase.find(s)==allowedBase.end()) return "" ; 
+        return allowedBase[s] ; 
     }
-    static inline bool Check(const string& cur, int sz) {
-        for (int i=0; i<sz-1; i++) {
-            if (cur[i]=='G') return 0;
-            u8 key=(cur[i]-'A')*6+(cur[i+1]-'A');
-            if (!pattern[key]) return 0;
+    void giveMeAllPossibleBases(string& bottom , vector<string>& allowed , map<string,string>& allowedBase , vector<string>& possibleBase , int ind , string str , bool& check){
+        int m = bottom.size() ; 
+        if(check==false) return ; 
+        if(ind==m-1){
+            possibleBase.push_back(str) ;
+            return ; 
         }
-        return 1;
+        string avail = getString(allowedBase , bottom , ind) ; 
+        if(avail.size()==0){
+            check = false ; 
+            return ; 
+        }
+        for(char ch : avail){
+            giveMeAllPossibleBases(bottom,allowed , allowedBase , possibleBase,ind+1, str+ch , check) ; 
+        }
     }
+    unordered_map<string,bool> dp ; 
+    bool f(string& bottom , vector<string>& allowed , map<string,string>& allowedBase){
+        if(dp.count(bottom)) return dp[bottom];
+        int m = bottom.size() ; 
+        if(m==1) return true ; 
+        vector<string> possibleBase ;
 
-    static inline void addPattern(const vector<string>& allowed) {
-        for (const auto& s : allowed) {
-            u8 idx=(s[0]-'A')*6+(s[1]-'A');
-            pattern[idx]|=1<<(s[2]-'A');
+        bool check = true ; 
+        giveMeAllPossibleBases(bottom , allowed , allowedBase ,possibleBase , 0 , "" , check) ; 
+        bool ans = false ; 
+        if(!check) return dp[bottom] = false;  
+        for(auto& s : possibleBase){
+            if(f(s, allowed, allowedBase)) return dp[bottom] = true;
         }
+        return dp[bottom] = false;
     }
-
-    static bool dfs(const string& cur, string& next, int i, int sz) {
-        if (i==sz-1) {
-            if (sz==2) return 1;
-            // pruning check
-            if (!Check(next, sz-1)) return 0;
-            unsigned idx=encode(next);
-            if (BAD[sz-1][idx]) return 0;
-
-            string up(sz-1, 'G');
-            if (!dfs(next, up, 0, sz-1)) {
-                BAD[sz-1][idx]=1;
-                return 0;
-            }
-            return 1;
+    bool pyramidTransition(string bottom, vector<string>& allowed) {
+        int n = allowed.size() ; 
+        map<string,string> allowedBase ; 
+        for(string& s : allowed){
+            if(allowedBase.find(s.substr(0,2)) == allowedBase.end()) allowedBase[s.substr(0,2)] = "" ;
+            allowedBase[s.substr(0,2)] += s[2] ; 
         }
-
-        u8 key=(cur[i]-'A')*6+(cur[i+1]-'A');
-        unsigned mask=pattern[key];
-
-        while (mask) {
-            unsigned bit=mask & -mask;
-            mask-=bit;
-
-            int c=countr_zero(bit);
-            next[i]='A'+c;
-
-            if (dfs(cur, next, i+1, sz))
-                return 1;
-        }
-        return 0;
-    }
-
-    static bool pyramidTransition(string bottom, vector<string>& allowed) {
-        memset(pattern, 0, sizeof(pattern));
-        for (int i=1; i<=6; i++) BAD[i].reset();
-
-        addPattern(allowed);
-
-        string next(bottom.size()-1, 'G');
-        return dfs(bottom, next, 0, bottom.size());
+        return f(bottom,allowed,allowedBase) ; 
     }
 };
