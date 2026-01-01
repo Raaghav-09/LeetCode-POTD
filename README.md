@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0840-magic-squares-in-grid) |
 | [0878-nth-magical-number](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0878-nth-magical-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0068-text-justification) |
 | [0474-ones-and-zeroes](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0717-1-bit-and-2-bit-characters) |
