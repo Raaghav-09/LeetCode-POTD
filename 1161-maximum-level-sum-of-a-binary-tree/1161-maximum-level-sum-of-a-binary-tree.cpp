@@ -16,7 +16,7 @@ public:
         q.push(root) ; 
         int mx = root->val ; 
         int ans = 1 , lv = 0 ; 
-        while(q.size()){
+        while(!q.empty()){
             int sz = q.size() ; 
             int sum = 0 ; 
             while(sz--){
