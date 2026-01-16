@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3433-count-mentions-per-user) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2402-meeting-rooms-iii) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Sorting
