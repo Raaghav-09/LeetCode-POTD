@@ -12,7 +12,7 @@ public:
             pq.push({freq, ch});
         }
 
-        map<char, pair<int,int>> cycles;
+        map<char, pair<int,int>> cycles; // {char , {cycles , freq}}
         int cyclesYet = 0;
 
         while(pq.size() || cycles.size()){
