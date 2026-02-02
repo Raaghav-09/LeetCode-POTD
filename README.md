@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1029-two-city-scheduling](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1029-two-city-scheduling) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1200-minimum-absolute-difference](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0621-task-scheduler) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0759-set-intersection-size-at-least-two) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1029-two-city-scheduling](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1029-two-city-scheduling) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0621-task-scheduler) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0759-set-intersection-size-at-least-two) |
+| [1029-two-city-scheduling](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1029-two-city-scheduling) |
 | [1200-minimum-absolute-difference](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1877-minimize-maximum-pair-sum-in-array) |
