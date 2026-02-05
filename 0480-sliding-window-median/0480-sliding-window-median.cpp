@@ -1,28 +1,30 @@
 class Solution {
 public:
-    vector<double> medianSlidingWindow(vector<int>& nums, int k) {
-        int n = nums.size() ; 
-        multiset<int> left , right ; 
+    vector<double> medianSlidingWindow(vector<int>& v , int k){
+        int n = v.size() ; 
         vector<double> ans ; 
+        
+        multiset<int> left , right ; 
 
         for(int i=0 ; i<k ; i++){
-            if(left.size() < (k+1)/2 ){
-                left.insert(nums[i]) ; 
+            if(left.size() < (k+1)/2){
+                left.insert(v[i]) ; 
             }
-            else if(nums[i] < *left.rbegin()){
-                left.insert(nums[i]) ; 
+            else if(*left.rbegin() > v[i]){
                 right.insert(*left.rbegin()) ; 
-                left.erase(prev(left.end())) ;  // new things , add in notes rbegin() is not working here 
+                left.erase(prev(left.end())) ; 
+                left.insert(v[i]) ; 
             }
             else{
-                right.insert(nums[i] ) ; 
+                right.insert(v[i]) ; 
             }
         }
-        
-        ans.push_back((k%2) ? *left.rbegin() : (*left.rbegin()*1LL + *right.begin()*1LL)/2.0 ) ; 
+
+        ans.push_back((k%2) ? *left.rbegin() : (1LL* (*left.rbegin()) + 1LL*(*right.begin()))/2.0) ; 
 
         for(int i=k ; i<n ; i++){
-            int toDelete = nums[i-k] , toInsert = nums[i] ; 
+            int toInsert = v[i] , toDelete = v[i-k] ; 
+
             if(right.find(toDelete) != right.end()){
                 right.erase(right.find(toDelete)) ; 
             }
@@ -30,30 +32,33 @@ public:
                 left.erase(left.find(toDelete)) ; 
             }
 
-            if (left.empty() || toInsert <= *left.rbegin()) left.insert(toInsert);
-            else right.insert(toInsert); 
+            if(left.size() && *left.rbegin() > toInsert) left.insert(toInsert) ; 
+            else right.insert(toInsert) ; 
 
-            // Now balance them 
+            // now balance them 
+            // Case 1 : If left size is more
             while(left.size() > (k+1)/2){
                 right.insert(*left.rbegin()) ; 
                 left.erase(prev(left.end())) ; 
             }
-            while(left.size() < (k+1)/2 ){
+            // Case 2 : If right right size is more
+            while(left.size() < (k+1)/2){
                 left.insert(*right.begin()) ; 
                 right.erase(right.begin()) ; 
             }
+            // Case 3 : Both have correct size but the distribution among them is wrong 
             while(left.size() && right.size() && *left.rbegin() > *right.begin()){
-                int lmx = *left.rbegin() ; 
+                int lmx = *left.rbegin() ;
                 int rmn = *right.begin() ; 
-                right.erase(right.begin()) ;
-                left.erase(prev(left.end())) ;  
-                left.insert(rmn) ;
+                left.erase(prev(left.end())) ; 
+                right.erase(right.begin()) ; 
+                left.insert(rmn) ; 
                 right.insert(lmx) ; 
             }
 
-            ans.push_back((k%2) ? *left.rbegin() : (*left.rbegin()*1LL+ *right.begin()*1LL)/2.0 ) ; 
+            ans.push_back((k%2) ? *left.rbegin() : (1LL* (*left.rbegin()) + 1LL*(*right.begin()))/2.0) ; 
         }
 
-        return ans ; 
+        return ans ;
     }
 };
