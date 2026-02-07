@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0759-set-intersection-size-at-least-two) |
 | [0840-magic-squares-in-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0840-magic-squares-in-grid) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0480-sliding-window-median) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0621-task-scheduler) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2402-meeting-rooms-iii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2402-meeting-rooms-iii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0878-nth-magical-number](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0878-nth-magical-number) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -335,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Prefix Sum
@@ -342,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1590-make-sum-divisible-by-p) |
@@ -408,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Brainteaser
 |  |
