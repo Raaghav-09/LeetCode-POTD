@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0135-candy) |
 | [0239-sliding-window-maximum](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0239-sliding-window-maximum) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0093-restore-ip-addresses) |
 | [0316-remove-duplicate-letters](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0316-remove-duplicate-letters) |
 | [0474-ones-and-zeroes](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0474-ones-and-zeroes) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0085-maximal-rectangle) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -412,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0093-restore-ip-addresses) |
 | [0756-pyramid-transition-matrix](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0756-pyramid-transition-matrix) |
 ## Geometry
