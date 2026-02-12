@@ -27,17 +27,15 @@ public:
     bool exist(vector<vector<char>>& board, string word) {
         int n = board.size() , m = board[0].size() ; 
         vector<pair<int,int>> v ; 
+        vector<vector<bool>> visited(n,vector<bool>(m,false));
         for(int i=0 ; i<n ; i++){
             for(int j=0 ; j<m ; j++){
                 if(board[i][j] == word[0]){
-                    v.push_back(make_pair(i,j)) ; 
+                    visited[i][j] = true;
+                    if(f(i,j,board , visited , word , 1)) return true ;
+                    visited[i][j] = false;
                 }
             }
-        }
-        for(auto [x,y] : v){
-            vector<vector<bool>> visited(n,vector<bool>(m,false)) ; 
-            visited[x][y] = true ; 
-            if(f(x,y,board , visited , word , 1)) return true ;
         }
         return false ; 
     }
