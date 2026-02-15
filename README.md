@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0067-add-binary) |
 | [0840-magic-squares-in-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0840-magic-squares-in-grid) |
 | [0878-nth-magical-number](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0878-nth-magical-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1266-minimum-time-visiting-all-points) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0093-restore-ip-addresses) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0067-add-binary) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0756-pyramid-transition-matrix](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0068-text-justification) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2288-count-operations-to-obtain-zero) |
