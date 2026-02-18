@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0067-add-binary) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
