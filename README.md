@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2007-find-original-array-from-doubled-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2007-find-original-array-from-doubled-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1975-maximum-matrix-sum) |
+| [2007-find-original-array-from-doubled-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2007-find-original-array-from-doubled-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3074-apple-redistribution-into-boxes) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2007-find-original-array-from-doubled-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2007-find-original-array-from-doubled-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2402-meeting-rooms-iii) |
 | [2514-count-anagrams](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2514-count-anagrams) |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2007-find-original-array-from-doubled-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2007-find-original-array-from-doubled-array) |
 | [2092-find-all-people-with-secret](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2274-keep-multiplying-found-values-by-two) |
