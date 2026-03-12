@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3453-separate-squares-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3453-separate-squares-i) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Queue
 |  |
 | ------- |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
@@ -569,9 +572,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Recursion
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
