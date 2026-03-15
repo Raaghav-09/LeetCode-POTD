@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1622-fancy-sequence](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0304-range-sum-query-2d-immutable) |
+| [1622-fancy-sequence](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1622-fancy-sequence) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1622-fancy-sequence) |
 | [3719-longest-balanced-subarray-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3721-longest-balanced-subarray-ii) |
 ## Rolling Hash
