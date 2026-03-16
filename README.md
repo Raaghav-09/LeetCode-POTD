@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1975-maximum-matrix-sum) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1975-maximum-matrix-sum) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0621-task-scheduler) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2402-meeting-rooms-iii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2402-meeting-rooms-iii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -418,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1590-make-sum-divisible-by-p) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -461,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2007-find-original-array-from-doubled-array) |
 | [2092-find-all-people-with-secret](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2092-find-all-people-with-secret) |
