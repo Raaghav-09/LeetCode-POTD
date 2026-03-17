@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2905-find-indices-with-index-and-value-difference-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2905-find-indices-with-index-and-value-difference-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 ## Graph Theory
 |  |
 | ------- |
