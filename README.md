@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1392-longest-happy-prefix](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1392-longest-happy-prefix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0799-champagne-tower) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1653-minimum-deletions-to-make-string-balanced) |
