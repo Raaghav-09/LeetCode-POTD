@@ -28,11 +28,6 @@ public:
         return dp[digits][tight] = ans ; 
     }
     long long numberOfPowerfulInt(long long start, long long finish, int limit, string s) {
-        // MINIMAL CHANGE 4: If the target suffix itself contains a digit > limit, it's impossible.
-        for(char c : s){
-            if(c - '0' > limit) return 0;
-        }
-
         int n = s.size() ; 
 
         auto isValid = [&](ll num) -> bool{
