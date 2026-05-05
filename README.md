@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0061-rotate-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Simulation
@@ -666,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0061-rotate-list) |
 | [0567-permutation-in-string](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1877-minimize-maximum-pair-sum-in-array) |
