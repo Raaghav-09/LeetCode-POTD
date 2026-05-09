@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1895-largest-magic-square) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1914-cyclically-rotating-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1895-largest-magic-square) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1914-cyclically-rotating-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1975-maximum-matrix-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1914-cyclically-rotating-a-grid) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2343-count-unguarded-cells-in-the-grid) |
