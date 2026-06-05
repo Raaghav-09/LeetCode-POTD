@@ -56,8 +56,7 @@ public:
                 }
 
                 ans = min(ans , llabs(totalSum-2*ele-2*right[r][lb])) ; 
-                if(lb + 1 < right[r].size()) ans = min(ans , llabs(totalSum-2*ele-2*right[r][lb+1])) ; 
-                // if(lb - 1 >= 0)
+                if(lb - 1 >= 0) ans = min(ans , llabs(totalSum-2*ele-2*right[r][lb-1])) ; 
             }
         }
 
