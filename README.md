@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2007-find-original-array-from-doubled-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2126-destroying-asteroids](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -545,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3863-power-grid-maintenance](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3863-power-grid-maintenance) |
@@ -559,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -649,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2007-find-original-array-from-doubled-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2092-find-all-people-with-secret](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2092-find-all-people-with-secret) |
 | [2126-destroying-asteroids](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -735,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0696-count-binary-substrings) |
 | [1861-rotating-the-box](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Graph Theory
@@ -833,4 +840,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0526-beautiful-arrangement) |
 | [1125-smallest-sufficient-team](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1125-smallest-sufficient-team) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1879-minimum-xor-sum-of-two-arrays) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
