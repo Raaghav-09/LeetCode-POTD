@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0474-ones-and-zeroes) |
 | [0480-sliding-window-median](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0480-sliding-window-median) |
+| [0494-target-sum](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0526-beautiful-arrangement) |
 | [0621-task-scheduler](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0474-ones-and-zeroes](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0526-beautiful-arrangement) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0799-champagne-tower) |
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0093-restore-ip-addresses) |
+| [0494-target-sum](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0526-beautiful-arrangement) |
 | [0756-pyramid-transition-matrix](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0756-pyramid-transition-matrix) |
 ## Geometry
