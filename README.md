@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1390-four-divisors](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1390-four-divisors) |
+| [1463-cherry-pickup-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1463-cherry-pickup-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1584-min-cost-to-connect-all-points) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1463-cherry-pickup-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1463-cherry-pickup-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1463-cherry-pickup-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1463-cherry-pickup-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1700-minimum-time-to-make-rope-colorful) |
