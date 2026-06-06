@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0068-text-justification) |
+| [0072-edit-distance](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0115-distinct-subsequences) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0132-palindrome-partitioning-ii) |
