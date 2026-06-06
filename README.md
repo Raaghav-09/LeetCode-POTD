@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0072-edit-distance) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0085-maximal-rectangle) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0044-wildcard-matching) |
 | [0135-candy](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0316-remove-duplicate-letters) |
 | [0621-task-scheduler](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0621-task-scheduler) |
@@ -830,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0044-wildcard-matching) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Minimum Spanning Tree
 |  |
