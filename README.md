@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2514-count-anagrams](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2514-count-anagrams) |
 | [2573-find-the-string-with-lcp](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2573-find-the-string-with-lcp) |
 | [2719-count-of-integers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2719-count-of-integers) |
+| [2801-count-stepping-numbers-in-range](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2801-count-stepping-numbers-in-range) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2573-find-the-string-with-lcp) |
 | [2719-count-of-integers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2719-count-of-integers) |
+| [2801-count-stepping-numbers-in-range](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2801-count-stepping-numbers-in-range) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2999-count-the-number-of-powerful-integers) |
