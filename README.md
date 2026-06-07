@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2514-count-anagrams](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2514-count-anagrams) |
 | [2719-count-of-integers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2719-count-of-integers) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2827-number-of-beautiful-integers-in-the-range](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2999-count-the-number-of-powerful-integers) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3001-minimum-moves-to-capture-the-queen) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2573-find-the-string-with-lcp) |
 | [2719-count-of-integers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2719-count-of-integers) |
+| [2827-number-of-beautiful-integers-in-the-range](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2999-count-the-number-of-powerful-integers) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
