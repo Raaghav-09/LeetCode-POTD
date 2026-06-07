@@ -1,67 +1,54 @@
 class Solution {
 public:
     using ll = long long ; 
-    ll f(ll digits , bool tight , int limit , string& s , string& suff , vector<vector<ll>>& dp){
-        if(dp[digits][tight] != -1) return dp[digits][tight] ; 
-        if(digits + suff.size() == s.size()){
-            if(tight){
-                // MINIMAL CHANGE 1: The suffix just needs to be <= the remaining string. 
-                // Also, we must explicitly return 0 if it fails so we don't fall through to the loop.
-                string remaining = s.substr(digits);
-                if (suff <= remaining) return 1;
-                return 0; 
-            }
-            else{
-                return 1 ; 
-            }
-        }
+    ll dp[20][2] ; 
+    long long numberOfPowerfulInt(long long start, long long finish, int limit, string s){
+        int len = s.size() ; 
 
-        // MINIMAL CHANGE 2: Convert char to int properly, and ensure we respect the global limit too.
-        int bound = (tight) ? min(limit, s[digits] - '0') : limit ; 
-
-        ll ans = 0 ; 
-        for(int i=0 ; i<=bound ; i++){
-            // MINIMAL CHANGE 3: Next tight depends on matching the actual string digit, not the clamped `bound`.
-            ans += f(digits+1,(tight && (i == (s[digits] - '0'))) , limit , s , suff , dp) ; 
-        }
-
-        return dp[digits][tight] = ans ; 
-    }
-    long long numberOfPowerfulInt(long long start, long long finish, int limit, string s) {
-        int n = s.size() ; 
-
-        auto isValid = [&](ll num) -> bool{
-            string t = to_string(num) ; 
-            if(t.size() < s.size()) return false ; 
-            
-            // MINIMAL CHANGE 6: We MUST check if the number itself violates the limit!
-            for(char c : t){
-                if(c - '0' > limit) return false;
-            }
-
-            int j = t.size()-1 ; 
-            bool flag = true ; 
-            for(int i=n-1 ; i>=0 ; i--){
-                if(s[i] != t[j]){
-                    flag = false ; 
-                    break ; 
+        auto f = [&](auto&& f , int idx , bool tight , string& str , int n) -> ll{
+            if(idx + len > n) return 0 ; 
+            if(dp[idx][tight] != -1) return dp[idx][tight] ;
+            if(idx + len == n){
+                int ans = 0 ; 
+                if(tight){ 
+                    int temp = idx ; 
+                    for(int i=0 ; i<len ; i++){
+                        if(str[temp] < s[i]){
+                            break ; 
+                        }
+                        else if(str[temp] > s[i]){
+                            ans = 1 ; 
+                            break ; 
+                        }
+                        if(i == len-1){
+                            ans = 1 ; 
+                        }
+                        temp++ ; 
+                    }
                 }
-                j-- ; 
+                else ans = 1 ; 
+                return ans ; 
             }
 
-            return flag ; 
+            int acutual_bound = (tight) ? (str[idx] - '0') : limit ; 
+            int bound = min(limit,acutual_bound) ; 
+            
+            ll ans = 0 ; 
+            for(int i=0 ; i<=bound ; i++){
+                bool newTight = (tight) & (acutual_bound == i) ; 
+                ans += f(f,idx+1,newTight,str,n) ; 
+            }
+
+            return dp[idx][tight] = ans ; 
         };
-
+        start-- ; 
         string s1 = to_string(start) , s2 = to_string(finish) ; 
-        vector<vector<ll>> dp1(s1.size()+1 , vector<ll>(2,-1)) ; 
-        vector<vector<ll>> dp2(s2.size()+1 , vector<ll>(2,-1)) ; 
+        int n1 = s1.size() , n2 = s2.size() ; 
+        memset(dp,-1,sizeof(dp)) ;
+        ll val1 = f(f,0,true,s1,n1) ; 
+        memset(dp,-1,sizeof(dp)) ;
+        ll val2 = f(f,0,true,s2,n2) ; 
 
-        // MINIMAL CHANGE 5: Only run DP if the number is at least as long as the suffix
-        ll plus = (s2.size() >= s.size()) ? f(0, 1, limit, s2, s, dp2) : 0; 
-        ll minus = (s1.size() >= s.size()) ? f(0, 1, limit, s1, s, dp1) : 0; 
-
-        ll ans = plus - minus + isValid(start); 
-
-        return ans ;
+        return val2 - val1 ; 
     }
 };
