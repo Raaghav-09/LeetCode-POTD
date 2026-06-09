@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1000-minimum-cost-to-merge-stones](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1029-two-city-scheduling](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1029-two-city-scheduling) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1125-smallest-sufficient-team](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1125-smallest-sufficient-team) |
 | [1200-minimum-absolute-difference](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1200-minimum-absolute-difference) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1012-numbers-with-repeated-digits](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1012-numbers-with-repeated-digits) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1092-shortest-common-supersequence](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1092-shortest-common-supersequence) |
 | [1125-smallest-sufficient-team](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1125-smallest-sufficient-team) |
 | [1143-longest-common-subsequence](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1143-longest-common-subsequence) |
