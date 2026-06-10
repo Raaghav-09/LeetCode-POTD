@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0132-palindrome-partitioning-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0316-remove-duplicate-letters) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0127-word-ladder) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0480-sliding-window-median](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0567-permutation-in-string) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0127-word-ladder) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
