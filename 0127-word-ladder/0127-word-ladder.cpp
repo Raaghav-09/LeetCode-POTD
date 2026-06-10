@@ -25,7 +25,7 @@ public:
             int step = q.front().second ; 
             q.pop() ; 
             
-            // if(step > n) continue ; 
+            if(step > n+1) continue ; 
 
             if(curr == endWord){
                 return step ; 
