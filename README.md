@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1029-two-city-scheduling) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1043-partition-array-for-maximum-sum) |
+| [1048-longest-string-chain](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1048-longest-string-chain) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1125-smallest-sufficient-team](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1125-smallest-sufficient-team) |
 | [1200-minimum-absolute-difference](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1200-minimum-absolute-difference) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1048-longest-string-chain](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1143-longest-common-subsequence) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1012-numbers-with-repeated-digits](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1012-numbers-with-repeated-digits) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1043-partition-array-for-maximum-sum) |
+| [1048-longest-string-chain](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1092-shortest-common-supersequence) |
 | [1125-smallest-sufficient-team](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1125-smallest-sufficient-team) |
 | [1143-longest-common-subsequence](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1143-longest-common-subsequence) |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1048-longest-string-chain](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1048-longest-string-chain) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1590-make-sum-divisible-by-p) |
@@ -705,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0759-set-intersection-size-at-least-two) |
 | [0761-special-binary-string](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0761-special-binary-string) |
 | [1029-two-city-scheduling](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1029-two-city-scheduling) |
+| [1048-longest-string-chain](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1048-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -805,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0061-rotate-list) |
 | [0567-permutation-in-string](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0696-count-binary-substrings) |
+| [1048-longest-string-chain](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1048-longest-string-chain) |
 | [1861-rotating-the-box](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
