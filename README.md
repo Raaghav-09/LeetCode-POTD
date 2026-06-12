@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3623-count-number-of-trapezoids-i) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3531-count-covered-buildings) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
 |  |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2999-count-the-number-of-powerful-integers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2999-count-the-number-of-powerful-integers) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -590,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2092-find-all-people-with-secret) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
@@ -802,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Binary Tree
 |  |
