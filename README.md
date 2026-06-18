@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-nth-magical-number](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0878-nth-magical-number) |
 | [1012-numbers-with-repeated-digits](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1012-numbers-with-repeated-digits) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1266-minimum-time-visiting-all-points) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1622-fancy-sequence](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1622-fancy-sequence) |
