@@ -1,46 +1,61 @@
 class Solution {
 public:
     bool consider(string& a , string& b){
-        int cnt = 0 ; 
+        if(a.size() != b.size()) return false ;
         int n = a.size() ;
+        int cnt = 0 ; 
         for(int i=0 ; i<n ; i++){
-            if(a[i] != b[i]){
-                cnt++ ; 
-            }
-            if(cnt>1) return false ; 
+            if(a[i] != b[i]) cnt++ ; 
+            if(cnt > 1) return false ; 
         }
-        if(cnt == 0) return false ; 
-        return true ; 
+
+        return cnt == 1 ; 
     }
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
         int n = wordList.size() ; 
-
-        queue<pair<string,int>> q ; 
-        q.push({beginWord,1}) ; 
-
-        set<string> s(wordList.begin(),wordList.end()) ; 
-
-        while(q.size()){
-            string curr = q.front().first ;
-            int step = q.front().second ; 
-            q.pop() ; 
-            
-            if(step > n+1) continue ; 
-
-            if(curr == endWord){
-                return step ; 
-            }
-            set<string> remove ; 
-            for(auto str : s){
-                if(consider(str,curr)){
-                    q.push({str,step+1}) ; 
-                    remove.insert(str) ; 
+        int target = -1 ; 
+        vector<vector<int>> adj(n+1) ; 
+        int src = 0 ; 
+        for(int i=0 ; i<n ; i++){
+            if(endWord == wordList[i]) target = i+1 ; 
+            if(beginWord == wordList[i]) src = i+1 ; 
+            for(int j=i+1 ; j<n ; j++){
+                if(consider(wordList[i],wordList[j])){
+                    adj[i+1].push_back(j+1) ; 
+                    adj[j+1].push_back(i+1) ; 
                 }
             }
-
-            for(auto& str : remove) s.erase(str) ; 
         }
 
+        if(src == 0){
+            for(int i=0 ; i<n ; i++){
+                if(consider(wordList[i],beginWord)){
+                    adj[0].push_back(i+1) ; 
+                }
+            }
+        }
+
+        vector<int> visited(n+1) ; 
+
+        queue<int> q ; 
+        q.push(src) ; 
+        visited[src] = 1 ;
+        int time = 0 ; 
+        while(!q.empty()){
+            time++ ; 
+            int sz = q.size() ;
+            while(sz--){
+                int node = q.front() ; q.pop() ;
+                if(target == node) return time ; 
+                for(auto adjNode : adj[node]){
+                    if(!visited[adjNode]){
+                        visited[adjNode] = 1 ; 
+                        q.push(adjNode) ; 
+                    }
+                }
+            }
+            
+        }
 
         return 0 ; 
     }
