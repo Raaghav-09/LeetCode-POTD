@@ -602,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0110-balanced-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0547-number-of-provinces](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0547-number-of-provinces) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0127-word-ladder) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0547-number-of-provinces](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0547-number-of-provinces) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -875,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0547-number-of-provinces](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0547-number-of-provinces) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1584-min-cost-to-connect-all-points) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -940,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0547-number-of-provinces) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1584-min-cost-to-connect-all-points) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
