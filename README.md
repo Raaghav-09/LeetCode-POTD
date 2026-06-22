@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1143-longest-common-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1392-longest-happy-prefix](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1392-longest-happy-prefix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1048-longest-string-chain](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1048-longest-string-chain) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1189-maximum-number-of-balloons](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1189-maximum-number-of-balloons) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1590-make-sum-divisible-by-p) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -739,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0692-top-k-frequent-words) |
+| [1189-maximum-number-of-balloons](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2514-count-anagrams](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2514-count-anagrams) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
