@@ -638,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2092-find-all-people-with-secret) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2101-detonate-the-maximum-bombs) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -659,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-detonate-the-maximum-bombs](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2101-detonate-the-maximum-bombs) |
 | [2258-escape-the-spreading-fire](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2258-escape-the-spreading-fire) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -918,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2101-detonate-the-maximum-bombs) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -985,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1584-min-cost-to-connect-all-points) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3666-minimum-operations-to-equalize-binary-string) |
