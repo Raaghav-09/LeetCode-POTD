@@ -1,65 +1,64 @@
 class Solution {
 public:
-    vector<int> pathsWithMaxScore(vector<string>& board) {
-        const int MOD = 1000000007;
-        int n = board.size();
+    const int inf = 1e5 ; 
+    const int mod = 1e9 + 7 ; 
+    vector<int> pathsWithMaxScore(vector<string>& grid) {
+        int n = grid.size() ; 
 
-        vector<int> nextScore(n + 1, -1);
-        vector<int> nextWays(n + 1, 0);
+        // queue<pair<int,int>> q ; 
+        // q.push(make_pair(n-1,n-1)) ; 
+        
+        vector<pair<int,int>> dirs = {{1,0},{0,1},{1,1}} ; 
 
-        for (int i = n - 1; i >= 0; --i) {
-            vector<int> currScore(n + 1, -1);
-            vector<int> currWays(n + 1, 0);
+        // while(!q.empty()){
+        //     auto [x,y] = q.front() ; q.pop() ; 
 
-            for (int j = n - 1; j >= 0; --j) {
-                char cell = board[i][j];
+        //     for(auto& [dx,dy] : dirs){
+        //         int nx = x + dx , ny = y + dy ; 
+        //         if(nx>=0 && n){
 
-                if (cell == 'X') {
-                    continue;
+        //         }
+        //     }
+
+        // }
+        grid[0][0] = '0' ; 
+        grid[n-1][n-1] = '0' ; 
+        vector<vector<pair<int,int>>> dp(n,vector<pair<int,int>>(n,make_pair(0,1))) ; 
+        for(int i=n-1 ; i>=0 ; i--){
+            for(int j=n-1 ; j>=0 ; j--){
+                if(grid[i][j] == 'X'){
+                    dp[i][j] = make_pair(-inf,0) ; 
+                    continue ; 
                 }
-
-                if (cell == 'S') {
-                    currScore[j] = 0;
-                    currWays[j] = 1;
-                    continue;
+                int mx = -inf ; 
+                for(auto& [dx,dy] : dirs){
+                    int ni = i+dx , nj = j+dy ; 
+                    if(ni<n && nj<n){
+                        if(grid[ni][nj] == 'X') continue ; 
+                        mx = max(mx,dp[ni][nj].first) ; 
+                    }
                 }
-
-                int best = max({
-                    nextScore[j],
-                    currScore[j + 1],
-                    nextScore[j + 1]
-                });
-
-                if (best == -1) {
-                    continue;
+                if(mx < 0){
+                    dp[i][j] = {-inf,0} ; 
                 }
-
-                long long ways = 0;
-
-                if (nextScore[j] == best) {
-                    ways += nextWays[j];
+                else{
+                    long long ways = 0 ; 
+                    for(auto& [dx,dy] : dirs){
+                        int ni = i+dx , nj = j+dy ; 
+                        if(ni<n && nj<n){
+                            if(grid[ni][nj] == 'X') continue ; 
+                            if(dp[ni][nj].first == mx){
+                                ways += dp[ni][nj].second ; 
+                                ways %= mod ; 
+                            }
+                        }
+                    }
+                    dp[i][j] = make_pair(mx+grid[i][j]-'0',ways) ; 
                 }
-                if (currScore[j + 1] == best) {
-                    ways += currWays[j + 1];
-                }
-                if (nextScore[j + 1] == best) {
-                    ways += nextWays[j + 1];
-                }
-
-                int value = (cell == 'E') ? 0 : cell - '0';
-
-                currScore[j] = best + value;
-                currWays[j] = ways % MOD;
+                if(i == n-1 && j == n-1) dp[i][j] = make_pair(0,1) ; 
             }
-
-            nextScore = move(currScore);
-            nextWays = move(currWays);
         }
-
-        if (nextScore[0] == -1) {
-            return {0, 0};
-        }
-
-        return {nextScore[0], nextWays[0]};
+        if(dp[0][0].second == 0) return {0,0} ;  
+        return  {dp[0][0].first , dp[0][0].second } ; 
     }
 };
