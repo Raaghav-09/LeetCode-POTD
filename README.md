@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3676-smallest-number-with-all-set-bits](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
 |  |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3714-longest-balanced-substring-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3714-longest-balanced-substring-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -753,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-longest-balanced-substring-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3721-longest-balanced-subarray-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Memoization
 |  |
 | ------- |
