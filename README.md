@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3531-count-covered-buildings) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3531-count-covered-buildings) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3583-count-special-triplets) |
@@ -714,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3453-separate-squares-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3488-closest-equal-element-queries) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -933,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3812-minimum-edge-toggles-on-a-tree) |
@@ -999,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2573-find-the-string-with-lcp) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Recursion
