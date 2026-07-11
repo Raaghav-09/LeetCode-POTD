@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0132-palindrome-partitioning-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0394-decode-string) |
 | [0474-ones-and-zeroes](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0567-permutation-in-string) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0394-decode-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -1014,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0044-wildcard-matching) |
 | [0233-number-of-digit-one](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0233-number-of-digit-one) |
+| [0394-decode-string](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0394-decode-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Minimum Spanning Tree
 |  |
