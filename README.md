@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0096-unique-binary-search-trees) |
 | [0233-number-of-digit-one](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0233-number-of-digit-one) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0085-maximal-rectangle) |
+| [0096-unique-binary-search-trees](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0131-palindrome-partitioning) |
@@ -916,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0096-unique-binary-search-trees) |
 | [0110-balanced-binary-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0968-binary-tree-cameras](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0968-binary-tree-cameras) |
@@ -930,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0096-unique-binary-search-trees) |
 | [0110-balanced-binary-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0968-binary-tree-cameras](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0968-binary-tree-cameras) |
@@ -1018,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0096-unique-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1382-balance-a-binary-search-tree) |
 ## Segment Tree
 |  |
