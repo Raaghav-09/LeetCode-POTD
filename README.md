@@ -648,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2402-meeting-rooms-iii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2402-meeting-rooms-iii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -978,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1584-min-cost-to-connect-all-points) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2101-detonate-the-maximum-bombs) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -993,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2977-minimum-cost-to-convert-string-ii) |
