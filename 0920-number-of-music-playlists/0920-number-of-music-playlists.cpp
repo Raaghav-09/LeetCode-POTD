@@ -11,7 +11,7 @@ public:
         dp[i][j] = dp[i-1][j] + dp[i-1][j-1] 
 
         dp[i][j] = no of ways to reach goal = i such that at most j different songs are played
-        dp[i][j] = dp[i-1][j] + dp[i-1][j-1]
+        dp[i][j] = dp[i-1][j]*(n-j+1) + dp[i-1][j-1]*(j-k)
         */
 
         vector<vector<ll>> dp(goal+1,vector<ll>(n+1,0)) ; 
