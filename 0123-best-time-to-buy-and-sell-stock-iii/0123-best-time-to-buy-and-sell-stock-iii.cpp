@@ -2,28 +2,29 @@ class Solution {
 public:
     int maxProfit(vector<int>& prices) {
         int n = prices.size() ; 
-        
-        vector<int> preProfit(n) ; 
-        int buy = prices[0] ; 
-        preProfit[0] = 0 ; 
+
+        vector<int> pre(n,0) ; 
+        int mn = prices[0] ; 
         for(int i=1 ; i<n ; i++){
-            buy = min(buy,prices[i]) ; 
-            preProfit[i] = max(preProfit[i-1], prices[i] - buy);
+            mn = min(mn,prices[i]) ; 
+            pre[i] = prices[i] - mn ; 
+            pre[i] = max(pre[i-1],pre[i]) ; 
         }
 
-        vector<int> suffProfit(n) ; 
-        suffProfit[n-1] = 0 ; 
-        int sell = prices[n-1] ; 
+        vector<int> suff(n,0) ; 
+        int mx = prices[n-1] ; 
         for(int i=n-2 ; i>=0 ; i--){
-            sell = max(sell,prices[i]) ; 
-            suffProfit[i] = max(suffProfit[i+1],sell-prices[i]) ; 
+            mx = max(mx,prices[i]) ; 
+            suff[i] = mx - prices[i] ;
+            suff[i] = max(suff[i],suff[i+1]) ; 
         }
 
-        int ans = 0 ; 
+        int ans = max(pre[n-1],suff[0]) ; 
 
-        for(int i=0 ; i<n ; i++){
-            ans = max(ans,preProfit[i] + suffProfit[i]) ; 
+        for(int i=0 ; i<n-1 ; i++){
+            ans = max(ans,pre[i]+suff[i+1]) ; 
         }
+
         return ans ; 
     }
 };
