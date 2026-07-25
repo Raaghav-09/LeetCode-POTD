@@ -22,7 +22,7 @@ public:
         int ans = max(pre[n-1],suff[0]) ; 
 
         for(int i=0 ; i<n-1 ; i++){
-            ans = max(ans,pre[i]+suff[i+1]) ; 
+            ans = max(ans,pre[i]+suff[i]) ; 
         }
 
         return ans ; 
