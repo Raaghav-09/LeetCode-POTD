@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0096-unique-binary-search-trees) |
 | [0233-number-of-digit-one](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0233-number-of-digit-one) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0781-rabbits-in-forest](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0781-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0840-magic-squares-in-grid) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0526-beautiful-arrangement) |
 | [0621-task-scheduler](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0692-top-k-frequent-words) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -854,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0692-top-k-frequent-words) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0759-set-intersection-size-at-least-two) |
