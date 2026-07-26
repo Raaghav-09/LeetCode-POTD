@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2258-escape-the-spreading-fire](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2258-escape-the-spreading-fire) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2007-find-original-array-from-doubled-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2402-meeting-rooms-iii) |
 | [2514-count-anagrams](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2514-count-anagrams) |
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0493-reverse-pairs](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0493-reverse-pairs) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3863-power-grid-maintenance](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3863-power-grid-maintenance) |
@@ -755,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2258-escape-the-spreading-fire](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2258-escape-the-spreading-fire) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -790,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2625-increment-submatrices-by-one) |
@@ -873,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2402-meeting-rooms-iii) |
 | [2463-minimum-total-distance-traveled](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2463-minimum-total-distance-traveled) |
