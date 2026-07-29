@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3606-coupon-code-validator](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3606-coupon-code-validator) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3614-process-string-with-special-operations-ii) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3531-count-covered-buildings](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -838,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2514-count-anagrams](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2514-count-anagrams) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3583-count-special-triplets](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3583-count-special-triplets) |
 ## Enumeration
 |  |
@@ -940,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0920-number-of-music-playlists](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0920-number-of-music-playlists) |
 | [2514-count-anagrams](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2514-count-anagrams) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Tree
 |  |
