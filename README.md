@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3474-lexicographically-smallest-generated-string](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3606-coupon-code-validator](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3606-coupon-code-validator) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3614-process-string-with-special-operations-ii) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
@@ -895,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3433-count-mentions-per-user) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3531-count-covered-buildings](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3531-count-covered-buildings) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3606-coupon-code-validator) |
@@ -1145,6 +1147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Concurrency
 |  |
 | ------- |
