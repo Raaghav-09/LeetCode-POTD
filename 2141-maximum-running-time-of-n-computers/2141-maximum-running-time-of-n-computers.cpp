@@ -1,15 +1,36 @@
 class Solution {
 public:
-    long long maxRunTime(int n, vector<int>& arr) {
-        sort(arr.begin(), arr.end());
-        long long total = accumulate(arr.begin(), arr.end(), 0LL);
+    using ll = long long ; 
+    long long maxRunTime(int n, vector<int>& batteries){
+        int m = batteries.size() ; 
+        /*
 
-        for (int i = arr.size() - 1; i >= 0; i--) {
-            if (arr[i] <= total / n) break;
-            total -= arr[i];
-            n--;
+        */  
+        ll sum = accumulate(batteries.begin(),batteries.end(),0LL) ; 
+        auto isPossible = [&](ll mid) -> bool{
+            ll cnt = 0 ; 
+            for(int i=0 ; i<m ; i++){
+                cnt += min((ll)batteries[i], mid) ; 
+            }
+
+            return cnt >= n*mid ; 
+        };
+
+        ll low = 0 , high = 1e14 ; 
+        ll ans = low ; 
+        // TTTTTFFFFF
+        while(low<=high){
+            ll mid = (low + high)/2 ; 
+
+            if(isPossible(mid)){
+                ans = mid ; 
+                low = mid + 1 ; 
+            }
+            else{
+                high = mid - 1 ; 
+            }
         }
 
-        return total / n;
+        return ans ; 
     }
 };
