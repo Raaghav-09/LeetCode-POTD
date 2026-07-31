@@ -1,37 +1,38 @@
 class Solution {
 public:
-    using ll = long long ; 
+    using ll = long long; 
     const ll mod = 1e9 + 7 ; 
     int countPaths(int n, vector<vector<int>>& roads) {
+        // no multiple edges
+        // undirected
+        // connected
+        // no of ways to arrive at shortest amount of time 
         vector<vector<pair<int,int>>> adj(n) ; 
-        for(auto& edges : roads){
-            int u = edges[0] , v = edges[1] , w = edges[2] ; 
-            adj[u].push_back({v,w}) ; 
-            adj[v].push_back({u,w}) ; 
+        for(auto road : roads){
+            int u = road[0] , v = road[1] , w = road[2] ; 
+            adj[u].push_back(make_pair(v,w)) ; 
+            adj[v].push_back(make_pair(u,w)) ; 
         }
-
-        vector<ll> dist(n,1e18) ; 
-        vector<ll> cnt(n,1) ; 
-
-        priority_queue<pair<ll,int> , vector<pair<ll,int>> , greater<> > pq ; 
-        pq.push({0,0}) ; 
-        dist[0] = 0 ; 
+        vector<ll> cnt(n,0) ; 
         cnt[0] = 1 ; 
-
+        vector<ll> distance(n,1e18) ; 
+        distance[0] = 0 ;
+        priority_queue<pair<ll,ll>,vector<pair<ll,ll>>,greater<pair<ll,ll>>> pq; 
+        pq.push({0,0}) ; // dist , node
         while(pq.size()){
-            auto [dis , u] = pq.top() ; pq.pop() ; 
-            
-            if(dist[u] < dis) continue ; 
-            for(auto [v,w] : adj[u]){
-                if(dis + w < dist[v]){
-                    dist[v] = dis + w ;  
-                    cnt[v] = cnt[u] ; 
-                    pq.push({dist[v],v}) ; 
+            auto [dist,node] = pq.top() ; pq.pop() ; 
+
+            if(distance[node] < dist) continue ; 
+            for(auto& [adjNode,weight] : adj[node]){
+                if(distance[adjNode] > dist + weight){
+                    distance[adjNode] = dist + weight ; 
+                    pq.push({distance[adjNode],adjNode}) ; 
+                    cnt[adjNode] = cnt[node] ; 
                 }
-                else if(dis + w == dist[v]){
-                    cnt[v] += cnt[u] ;
-                    cnt[v]%= mod ; 
+                else if(distance[adjNode] == dist + weight){
+                    cnt[adjNode] += cnt[node] ; 
                 }
+                cnt[adjNode] %= mod ; 
             }
         }
 
