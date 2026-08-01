@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0526-beautiful-arrangement) |
 | [0621-task-scheduler](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0628-maximum-product-of-three-numbers) |
+| [0630-course-schedule-iii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0692-top-k-frequent-words) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0759-set-intersection-size-at-least-two) |
 | [0781-rabbits-in-forest](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0781-rabbits-in-forest) |
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0692-top-k-frequent-words) |
 | [0778-swim-in-rising-water](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0778-swim-in-rising-water) |
@@ -870,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0628-maximum-product-of-three-numbers) |
+| [0630-course-schedule-iii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0692-top-k-frequent-words) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0759-set-intersection-size-at-least-two) |
