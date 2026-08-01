@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0494-target-sum) |
+| [0502-ipo](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0526-beautiful-arrangement) |
 | [0621-task-scheduler](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0621-task-scheduler) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0480-sliding-window-median) |
+| [0502-ipo](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -871,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0218-the-skyline-problem) |
 | [0229-majority-element-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0630-course-schedule-iii) |
