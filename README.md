@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0781-rabbits-in-forest](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0781-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0877-stone-game) |
 | [0878-nth-magical-number](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0878-nth-magical-number) |
 | [0920-number-of-music-playlists](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0920-number-of-music-playlists) |
 | [1012-numbers-with-repeated-digits](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1012-numbers-with-repeated-digits) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0840-magic-squares-in-grid) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0877-stone-game](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0877-stone-game) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0799-champagne-tower](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0799-champagne-tower) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0877-stone-game](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0877-stone-game) |
 | [0920-number-of-music-playlists](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0920-number-of-music-playlists) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0968-binary-tree-cameras](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0968-binary-tree-cameras) |
@@ -1137,6 +1140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0877-stone-game](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0877-stone-game) |
 ## Bitmask
 |  |
 | ------- |
