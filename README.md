@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0799-champagne-tower](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0799-champagne-tower) |
+| [0834-sum-of-distances-in-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0834-sum-of-distances-in-tree) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-stone-game](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0877-stone-game) |
 | [0920-number-of-music-playlists](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0920-number-of-music-playlists) |
@@ -710,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0834-sum-of-distances-in-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0834-sum-of-distances-in-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0968-binary-tree-cameras](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0968-binary-tree-cameras) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -979,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0096-unique-binary-search-trees) |
 | [0110-balanced-binary-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0110-balanced-binary-tree) |
+| [0834-sum-of-distances-in-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0834-sum-of-distances-in-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0968-binary-tree-cameras](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0968-binary-tree-cameras) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -1033,6 +1036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0834-sum-of-distances-in-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0834-sum-of-distances-in-tree) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1584-min-cost-to-connect-all-points) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -1203,4 +1207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1406-stone-game-iii) |
+## DP on Trees
+|  |
+| ------- |
+| [0834-sum-of-distances-in-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0834-sum-of-distances-in-tree) |
 <!---LeetCode Topics End-->
