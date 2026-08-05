@@ -725,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2092-find-all-people-with-secret](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2092-find-all-people-with-secret) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2101-detonate-the-maximum-bombs) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3310-remove-methods-from-project](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -751,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3310-remove-methods-from-project) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3863-power-grid-maintenance](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3863-power-grid-maintenance) |
@@ -1050,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3650-minimum-cost-path-with-edge-reversals) |
