@@ -632,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0061-rotate-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0239-sliding-window-maximum) |
@@ -1089,6 +1091,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0218-the-skyline-problem) |
 | [0327-count-of-range-sum](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0327-count-of-range-sum) |
@@ -1184,6 +1187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0023-merge-k-sorted-lists) |
 | [0327-count-of-range-sum](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0493-reverse-pairs) |
 ## Sweep Line
@@ -1230,4 +1234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0380-insert-delete-getrandom-o1) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
