@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-nth-magical-number](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0878-nth-magical-number) |
 | [0920-number-of-music-playlists](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0920-number-of-music-playlists) |
 | [1012-numbers-with-repeated-digits](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1012-numbers-with-repeated-digits) |
+| [1140-stone-game-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1390-four-divisors) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1048-longest-string-chain) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1125-smallest-sufficient-team](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1125-smallest-sufficient-team) |
+| [1140-stone-game-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1092-shortest-common-supersequence) |
 | [1125-smallest-sufficient-team](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1125-smallest-sufficient-team) |
+| [1140-stone-game-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -834,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1140-stone-game-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1590-make-sum-divisible-by-p) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -1170,6 +1174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0877-stone-game](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1406-stone-game-iii) |
 ## Bitmask
 |  |
@@ -1221,10 +1226,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1406-stone-game-iii) |
 ## DP on Trees
 |  |
