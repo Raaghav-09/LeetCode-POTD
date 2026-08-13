@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2258-escape-the-spreading-fire](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2258-escape-the-spreading-fire) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -794,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0493-reverse-pairs](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0493-reverse-pairs) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -1127,6 +1130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0493-reverse-pairs) |
 | [1622-fancy-sequence](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1622-fancy-sequence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3721-longest-balanced-subarray-ii) |
