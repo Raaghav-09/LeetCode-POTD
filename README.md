@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1563-stone-game-v](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1563-stone-game-v](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1563-stone-game-v) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1584-min-cost-to-connect-all-points) |
 | [1590-make-sum-divisible-by-p](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1590-make-sum-divisible-by-p) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1463-cherry-pickup-ii) |
 | [1510-stone-game-iv](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1563-stone-game-v](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1563-stone-game-v) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1192,6 +1195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1563-stone-game-v) |
 ## Bitmask
 |  |
 | ------- |
