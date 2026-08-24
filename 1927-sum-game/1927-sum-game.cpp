@@ -10,8 +10,8 @@ public:
         2 5 
         ? ?
 
-        18 9
-        9 0 9 0 9
+        18 ?
+        ? ? ? ? ? false
 
         5 ? ?
         ? ? ? ?
@@ -43,14 +43,9 @@ public:
         q1 %= 2 ; 
         q2 %= 2 ; 
 
-        // if(q1 == q2){
-            if(t1 + s1 == t2 + s2){
-                return false ; 
-            }
-            else return true ; 
-        // }
-        
-
-
+        if(t1 + s1 == t2 + s2){
+            return false ; 
+        }
+        else return true ; 
     }
 };
