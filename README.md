@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1927-sum-game](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1927-sum-game) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2101-detonate-the-maximum-bombs) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1871-jump-game-vii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1927-sum-game](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1927-sum-game) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1927-sum-game](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1927-sum-game) |
 | [1975-maximum-matrix-sum](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1975-maximum-matrix-sum) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2007-find-original-array-from-doubled-array) |
 | [2126-destroying-asteroids](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2126-destroying-asteroids) |
@@ -1205,6 +1208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1927-sum-game) |
 ## Bitmask
 |  |
 | ------- |
