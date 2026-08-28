@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3714-longest-balanced-substring-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3714-longest-balanced-substring-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Matrix
 |  |
@@ -938,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -1093,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Graph Theory
 |  |
 | ------- |
