@@ -1,28 +1,42 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
 public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
-        int Min = 100000, i = 1;
-        int c[2] = {0, 0};
+        vector<int> critical ; 
 
-        auto prev = head, curr = head->next, nxt = head->next->next;
-
-        auto isCrit = [&]() {
-            auto x = prev->val, y = curr->val, z = nxt->val;
-            return (x < y && y > z) || (x > y && y < z);
-        };
-
-        while (nxt) {
-            if (isCrit()) {
-                if (c[0]) Min = min(Min, i - c[c[1] > 0]);
-                c[c[0] > 0] = i;
+        ListNode* prev = head ; 
+        ListNode* temp = head->next ; 
+        int ind = 1 ; 
+        while(temp){
+            if(temp->next){
+                if(temp->val > prev->val && temp->val > temp->next->val){
+                    critical.push_back(ind) ; 
+                }
+                else if(temp->val < prev->val && temp->val < temp->next->val){
+                    critical.push_back(ind) ; 
+                }
             }
-
-            prev = curr; curr = nxt;
-            nxt = nxt->next; i++;
+            ind++ ; 
+            prev = temp ;
+            temp = temp->next ; 
         }
 
-        if (c[1]) return {Min, c[1] - c[0]};
+        if(critical.size() <= 1) return {-1,-1} ; 
 
-        return {-1, -1};
+        int mn = ind , mx = 0 ; 
+        int m = critical.size() ; 
+        for(int i=0 ; i<m-1 ; i++){
+            mn = min(mn,critical[i+1]-critical[i]) ; 
+        }
+        return {mn,critical.back()-critical.front()} ; 
     }
 };
