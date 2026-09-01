@@ -761,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0814-binary-tree-pruning](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0814-binary-tree-pruning) |
 | [0834-sum-of-distances-in-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0834-sum-of-distances-in-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0968-binary-tree-cameras](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0968-binary-tree-cameras) |
@@ -1050,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0096-unique-binary-search-trees) |
 | [0110-balanced-binary-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0110-balanced-binary-tree) |
+| [0814-binary-tree-pruning](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0814-binary-tree-pruning) |
 | [0834-sum-of-distances-in-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0834-sum-of-distances-in-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0968-binary-tree-cameras](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0968-binary-tree-cameras) |
@@ -1067,6 +1069,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0096-unique-binary-search-trees) |
 | [0110-balanced-binary-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0110-balanced-binary-tree) |
+| [0814-binary-tree-pruning](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0814-binary-tree-pruning) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0968-binary-tree-cameras](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
