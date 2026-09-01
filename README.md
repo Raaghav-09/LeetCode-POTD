@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Bit Manipulation
 |  |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
@@ -651,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3606-coupon-code-validator) |
@@ -805,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3863-power-grid-maintenance](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3863-power-grid-maintenance) |
