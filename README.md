@@ -619,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0781-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1048-longest-string-chain) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1189-maximum-number-of-balloons](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1189-maximum-number-of-balloons) |
@@ -763,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0834-sum-of-distances-in-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0968-binary-tree-cameras](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0968-binary-tree-cameras) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1382-balance-a-binary-search-tree) |
@@ -789,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -959,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0692-top-k-frequent-words) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0759-set-intersection-size-at-least-two) |
 | [0761-special-binary-string](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0761-special-binary-string) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1029-two-city-scheduling](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1029-two-city-scheduling) |
 | [1048-longest-string-chain](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1048-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1200-minimum-absolute-difference) |
@@ -1049,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0834-sum-of-distances-in-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0968-binary-tree-cameras](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0968-binary-tree-cameras) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1382-balance-a-binary-search-tree) |
@@ -1064,6 +1069,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0968-binary-tree-cameras](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0968-binary-tree-cameras) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1382-balance-a-binary-search-tree) |
