@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3863-power-grid-maintenance](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3863-power-grid-maintenance) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3903-smallest-stable-index-i) |
+| [4054-count-shadow-pairs-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/4054-count-shadow-pairs-i) |
 ## String
 |  |
 | ------- |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2751-robot-collisions) |
+| [4054-count-shadow-pairs-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/4054-count-shadow-pairs-i) |
 ## Greedy
 |  |
 | ------- |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [4054-count-shadow-pairs-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/4054-count-shadow-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
