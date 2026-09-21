@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3524-find-x-value-of-array-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3524-find-x-value-of-array-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3524-find-x-value-of-array-i) |
 | [3531-count-covered-buildings](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3546-equal-sum-grid-partition-i) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3524-find-x-value-of-array-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3524-find-x-value-of-array-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
