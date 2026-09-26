@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1833-maximum-ice-cream-bars) |
 | [1861-rotating-the-box](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1861-rotating-the-box) |
 | [1872-stone-game-viii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1872-stone-game-viii) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1745-palindrome-partitioning-iv](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1745-palindrome-partitioning-iv) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1871-jump-game-vii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1927-sum-game](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1927-sum-game) |
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2007-find-original-array-from-doubled-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2196-create-binary-tree-from-descriptions) |
