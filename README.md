@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0047-permutations-ii) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0001-two-sum) |
 | [0127-word-ladder](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0127-word-ladder) |
 | [0229-majority-element-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0229-majority-element-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0380-insert-delete-getrandom-o1) |
