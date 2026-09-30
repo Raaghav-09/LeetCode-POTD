@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0044-wildcard-matching](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0068-text-justification) |
@@ -641,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0127-word-ladder) |
 | [0229-majority-element-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0229-majority-element-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0380-insert-delete-getrandom-o1) |
@@ -740,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0424-longest-repeating-character-replacement) |
