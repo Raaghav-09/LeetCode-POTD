@@ -10,13 +10,8 @@ public:
         int ans = 0 ; 
         for(int i=0 ; i<n ; i++){
             sum += nums[i] ; 
-            if(k != 0){
-                int en1 = sum - k ; 
-                ans += mp[en1] ; 
-            }
-            else{
-                ans += mp[sum] ; 
-            }
+            int en = sum - k ;
+            ans += mp[en] ; 
             mp[sum]++ ; 
         }
 
