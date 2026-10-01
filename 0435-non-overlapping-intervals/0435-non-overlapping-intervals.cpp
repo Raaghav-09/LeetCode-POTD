@@ -9,7 +9,7 @@ public:
         int st = intervals[0][0] ; 
         int en = intervals[0][1] ; 
         int res = 0 ; 
-        for(int i=0 ; i<n ; i++){
+        for(int i=1 ; i<n ; i++){
             if(intervals[i][0] < en){
                 res++ ; 
             }
@@ -19,6 +19,6 @@ public:
             }
         }
 
-        return res-1 ; 
+        return res ; 
     }
 };
