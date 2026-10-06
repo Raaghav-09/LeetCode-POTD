@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -1422,6 +1424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
