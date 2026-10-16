@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 | [2906-construct-product-matrix](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2906-construct-product-matrix) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -718,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -1287,6 +1289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0493-reverse-pairs) |
 | [1622-fancy-sequence](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1622-fancy-sequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3525-find-x-value-of-array-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3719-longest-balanced-subarray-i) |
@@ -1364,6 +1367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0218-the-skyline-problem) |
 | [0327-count-of-range-sum](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0493-reverse-pairs) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Merge Sort
 |  |
 | ------- |
