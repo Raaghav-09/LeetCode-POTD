@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3783-mirror-distance-of-an-integer](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3783-mirror-distance-of-an-integer) |
 | [3871-count-commas-in-range-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3886-sum-of-sortable-integers) |
 ## Array
 |  |
 | ------- |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3863-power-grid-maintenance](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3863-power-grid-maintenance) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3903-smallest-stable-index-i) |
 | [4054-count-shadow-pairs-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/4054-count-shadow-pairs-i) |
 ## String
@@ -1052,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3886-sum-of-sortable-integers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3886-sum-of-sortable-integers) |
 ## Sorting
 |  |
 | ------- |
@@ -1119,6 +1122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3731-find-missing-elements) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3812-minimum-edge-toggles-on-a-tree) |
+| [3886-sum-of-sortable-integers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3886-sum-of-sortable-integers) |
 ## Backtracking
 |  |
 | ------- |
