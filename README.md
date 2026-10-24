@@ -692,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0127-word-ladder) |
+| [0146-lru-cache](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0146-lru-cache) |
 | [0229-majority-element-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0229-majority-element-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0380-insert-delete-getrandom-o1) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -766,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0061-rotate-list) |
+| [0146-lru-cache](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0146-lru-cache) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -1212,12 +1214,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0146-lru-cache) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0380-insert-delete-getrandom-o1) |
 | [1622-fancy-sequence](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1622-fancy-sequence) |
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0146-lru-cache) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Two Pointers
 |  |
