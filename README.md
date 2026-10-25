@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0079-word-search) |
@@ -1071,6 +1072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0218-the-skyline-problem) |
@@ -1506,4 +1508,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
