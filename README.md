@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3863-power-grid-maintenance](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3863-power-grid-maintenance) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3903-smallest-stable-index-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -607,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
