@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3433-count-mentions-per-user](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3433-count-mentions-per-user) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3524-find-x-value-of-array-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -761,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3531-count-covered-buildings](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3531-count-covered-buildings) |
@@ -838,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3634-minimum-removals-to-balance-array) |
@@ -868,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3650-minimum-cost-path-with-edge-reversals) |
