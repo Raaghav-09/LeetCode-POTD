@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3693-climbing-stairs-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3719-longest-balanced-subarray-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3721-longest-balanced-subarray-ii) |
@@ -622,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3660-jump-game-ix](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3693-climbing-stairs-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3693-climbing-stairs-ii) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
