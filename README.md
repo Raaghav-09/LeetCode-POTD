@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2999-count-the-number-of-powerful-integers) |
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2719-count-of-integers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2719-count-of-integers) |
 | [2801-count-stepping-numbers-in-range](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2801-count-stepping-numbers-in-range) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2827-number-of-beautiful-integers-in-the-range) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2999-count-the-number-of-powerful-integers) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -1306,6 +1308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Raaghav-09/LeetCode-POTD/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Graph Theory
